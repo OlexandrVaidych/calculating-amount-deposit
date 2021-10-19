@@ -1,0 +1,16 @@
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\bin\Debug\net5.0\CalculatingAmountDeposit.exe
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\bin\Debug\net5.0\CalculatingAmountDeposit.deps.json
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\bin\Debug\net5.0\CalculatingAmountDeposit.runtimeconfig.json
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\bin\Debug\net5.0\CalculatingAmountDeposit.runtimeconfig.dev.json
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\bin\Debug\net5.0\CalculatingAmountDeposit.dll
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\bin\Debug\net5.0\ref\CalculatingAmountDeposit.dll
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\bin\Debug\net5.0\CalculatingAmountDeposit.pdb
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\obj\Debug\net5.0\CalculatingAmountDeposit.csproj.AssemblyReference.cache
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\obj\Debug\net5.0\CalculatingAmountDeposit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\obj\Debug\net5.0\CalculatingAmountDeposit.AssemblyInfoInputs.cache
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\obj\Debug\net5.0\CalculatingAmountDeposit.AssemblyInfo.cs
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\obj\Debug\net5.0\CalculatingAmountDeposit.csproj.CoreCompileInputs.cache
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\obj\Debug\net5.0\CalculatingAmountDeposit.dll
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\obj\Debug\net5.0\ref\CalculatingAmountDeposit.dll
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\obj\Debug\net5.0\CalculatingAmountDeposit.pdb
+C:\Users\10lex\source\repos\CalculatingAmountDeposit\CalculatingAmountDeposit\obj\Debug\net5.0\CalculatingAmountDeposit.genruntimeconfig.cache
