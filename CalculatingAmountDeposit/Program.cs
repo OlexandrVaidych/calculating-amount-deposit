@@ -14,9 +14,18 @@ namespace CalculatingAmountDeposit
 
             decimal percent = 0.07m;
 
+            /*
             for(int i = 0; i < months; i++)
             {
                 sum += sum * percent;
+            }
+            */
+
+            int i = months;
+            while (i >= 1)
+            {
+                sum += sum * percent;
+                i--;
             }
 
             Console.Write($"The final amount of the deposit: {sum}");
